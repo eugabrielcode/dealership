@@ -1,6 +1,6 @@
 <h1>Dealership Page</h1>
 
-<p>Este é um projeto de site para uma concessionária de veículos, desenvolvido utilizando HTML e CSS. O objetivo deste projeto é criar uma interface simples e funcional para exibir informações sobre os veículos disponíveis, suas características e facilitar o contato com a concessionária.</p>
+<p>Um site para uma concessionária de veículos, desenvolvido utilizando HTML, CSS e JavaScript. O objetivo deste projeto é criar uma interface simples e funcional para exibir informações sobre os veículos disponíveis e suas características.</p>
 
 <h2>🚀 Funcionalidades</h2>
 
